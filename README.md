@@ -16,6 +16,7 @@ O objetivo é integrar **gestão operacional** e **planejamento estratégico** d
 - [Wireframe](artefatos/wireframe)
 - [Elicitação de Requisitos](artefatos/elicitacao-requisitos)
 - [Missão, Visão e Valor](artefatos/missao-visao-valor)
+- [BPMN](artefatos/bpmn)
 
 ## Prof. Alessandro Fukuta
 Fatec Franca/SP
