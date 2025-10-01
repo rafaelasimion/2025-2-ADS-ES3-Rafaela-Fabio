@@ -18,5 +18,5 @@ O objetivo é integrar **gestão operacional** e **planejamento estratégico** d
 - [Missão, Visão e Valor](artefatos/missao-visao-valor)
 - [BPMN](artefatos/bpmn)
 
-## Prof. Alessandro Fukuta
+### Prof. Alessandro Fukuta
 Fatec Franca/SP
