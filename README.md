@@ -17,6 +17,7 @@ O objetivo é integrar **gestão operacional** e **planejamento estratégico** d
 - [Elicitação de Requisitos](artefatos/elicitacao-requisitos)
 - [Missão, Visão e Valor](artefatos/missao-visao-valor)
 - [BPMN](artefatos/bpmn)
+- [TAP](artefatos/tap)
 
 ### Prof. Alessandro Fukuta
 Fatec Franca/SP
