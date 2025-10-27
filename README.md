@@ -18,6 +18,7 @@ O objetivo é integrar **gestão operacional** e **planejamento estratégico** d
 - [Missão, Visão e Valor](artefatos/missao-visao-valor)
 - [BPMN](artefatos/bpmn)
 - [TAP](artefatos/tap)
+- [EAP](artefatos/eap)
 
 ### Prof. Alessandro Fukuta
 Fatec Franca/SP
