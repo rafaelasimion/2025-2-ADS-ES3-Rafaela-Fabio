@@ -19,6 +19,8 @@ O objetivo é integrar **gestão operacional** e **planejamento estratégico** d
 - [BPMN](artefatos/bpmn)
 - [TAP](artefatos/tap)
 - [EAP](artefatos/eap)
+- [Diagrama Sequência](artefatos/diagrama-sequencia)
+- [Diagrama Atividades](artefatos/diagrama-atividades)
 
 ### Prof. Alessandro Fukuta
 Fatec Franca/SP
