@@ -21,6 +21,7 @@ O objetivo é integrar **gestão operacional** e **planejamento estratégico** d
 - [EAP](artefatos/eap)
 - [Diagrama Sequência](artefatos/diagrama-sequencia)
 - [Diagrama Atividades](artefatos/diagrama-atividades)
+- [Máquina de Estados](artefatos/maquina-estados)
 
 ### Prof. Alessandro Fukuta
 Fatec Franca/SP
