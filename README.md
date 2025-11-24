@@ -23,6 +23,7 @@ O objetivo é integrar **gestão operacional** e **planejamento estratégico** d
 - [Diagrama Atividades](artefatos/diagrama-atividades)
 - [Máquina de Estados](artefatos/maquina-estados)
 - [Matriz de Rastreabilidade](artefatos/matriz-rastreabilidade)
+- [Documentação de Portabilidade](artefatos/portabilidade)
 
 ### Prof. Alessandro Fukuta
 Fatec Franca/SP
