@@ -22,6 +22,7 @@ O objetivo é integrar **gestão operacional** e **planejamento estratégico** d
 - [Diagrama Sequência](artefatos/diagrama-sequencia)
 - [Diagrama Atividades](artefatos/diagrama-atividades)
 - [Máquina de Estados](artefatos/maquina-estados)
+- [Matriz de Rastreabilidade](artefatos/matriz-rastreabilidade)
 
 ### Prof. Alessandro Fukuta
 Fatec Franca/SP
