@@ -19,11 +19,14 @@ O objetivo é integrar **gestão operacional** e **planejamento estratégico** d
 - [BPMN](artefatos/bpmn)
 - [TAP](artefatos/tap)
 - [EAP](artefatos/eap)
+- [Diagrama Caso de Uso](artefatos/caso-de-uso)
 - [Diagrama Sequência](artefatos/diagrama-sequencia)
 - [Diagrama Atividades](artefatos/diagrama-atividades)
 - [Máquina de Estados](artefatos/maquina-estados)
 - [Matriz de Rastreabilidade](artefatos/matriz-rastreabilidade)
 - [Documentação de Portabilidade](artefatos/portabilidade)
+- [Métricas](artefatos/métricas)
+- [Proposta Comercial](artefatos/proposta-comercial)
 
 ### Prof. Alessandro Fukuta
 Fatec Franca/SP
