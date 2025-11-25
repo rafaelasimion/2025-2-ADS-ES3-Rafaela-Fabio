@@ -22,6 +22,7 @@ O objetivo é integrar **gestão operacional** e **planejamento estratégico** d
 - [Diagrama Caso de Uso](artefatos/caso-de-uso)
 - [Diagrama Sequência](artefatos/diagrama-sequencia)
 - [Diagrama Atividades](artefatos/diagrama-atividades)
+- [Diagrama Classe](artefatos/diagrama-classe)
 - [Máquina de Estados](artefatos/maquina-estados)
 - [Matriz de Rastreabilidade](artefatos/matriz-rastreabilidade)
 - [Documentação de Portabilidade](artefatos/portabilidade)
